@@ -1,6 +1,6 @@
 # 图片
 
-https://raw.githubusercontent.com/yjrhgvbn/shopping/master/2020-08-12-21-03-07.png
+![Image text](https://raw.githubusercontent.com/yjrhgvbn/shopping/master/2020-08-12-21-03-07.png)
 https://github.com/yjrhgvbn/shopping/blob/master/2020-08-12-21-03-26.png
 https://github.com/yjrhgvbn/shopping/blob/master/2020-08-12-21-03-33.png
 
